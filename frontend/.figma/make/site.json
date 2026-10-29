@@ -1,0 +1,10 @@
+{
+  "description": "Helps students explore courses, get AI-guided counselling, and submit enquiries, while giving institute staff tools to manage courses, conversations, and admissions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
